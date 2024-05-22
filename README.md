@@ -29,9 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="soumyadipmaity1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false" alt="soumyadipmaity1" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="soumyadipmaity1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false" alt="soumyadipmaity1" /></p>
 <br>
 <h2>Activity Graph</h2>
 
