@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Soumyadipmaity1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/soumyadipmaity1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soumyadipmaity1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumyadip-maity-a77b41282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadip-maity-a77b41282" height="30" width="40" /></a>
@@ -37,14 +37,14 @@
 <br>
 
 
-<h2>Current Stats</h2> 
+<h2>🎉 Current Stats:</h2> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="soumyadipmaity1" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="soumyadipmaity1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false" alt="soumyadipmaity1" /></p>
 <br>
-<h2>Activity Graph</h2>
+<h2>📈 Activity Graph:</h2>
 
 ![Soumyadip's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyadipmaity1&custom_title=Soumyadip's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
@@ -55,6 +55,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-<h2>😂 Random Dev Meme </h2>
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
