@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipmaity1&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipmaity1" /> </p>
 
-- 🔭 I’m currently working on [KIIT-AEWS website](https://kaews.vercel.app/)
+- 🔭 I’m currently working on fixing my mental peace
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 💬 Ask me about **ReactJs, JavaScript, TailwindCSS**
+- 💬 Ask me about **ReactJs, JavaScript, TailwindCSS, NextJs, Typescript**
 
 - 📫 How to reach me [9641208005](https://wa.me/qr/6OMJ234O5OXRE1) (WhatsApp)
 
