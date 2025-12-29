@@ -15,8 +15,29 @@
 
 
 ## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/Soumyadipmaity1">
+    <picture>
+      <!-- Dark mode -->
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy.vercel.app/?username=Soumyadipmaity1&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai"
+      />
+      <!-- Light mode -->
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-trophy.vercel.app/?username=Soumyadipmaity1&no-bg=true&row=2&column=6&margin-w=20&margin-h=20"
+      />
+      <img
+        alt="GitHub Trophies"
+        src="https://github-profile-trophy.vercel.app/?username=Soumyadipmaity1&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"
+      />
+    </picture>
+  </a>
+</p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=Soumyadipmaity1&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
+
 <br>
 
 <h2 align="left">🤝 Connect with me:</h2>
@@ -42,7 +63,7 @@
 <h2>🎉 Current Stats:</h2> 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="soumyadipmaity1" /></p> -->
 <div allign="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="soumyadipmaity1" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Soumyadipmaity1" />
  &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipmaity1&theme=vision-friendly-dark&hide_border=false" alt="soumyadipmaity1" /></p>
 </div>
 <br>
