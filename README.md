@@ -15,7 +15,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soumyadipmaity1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![]([![trophy](https://github-profile-trophy.vercel.app/?username=Soumyadipmaity1=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 <h2 align="left">🤝 Connect with me:</h2>
